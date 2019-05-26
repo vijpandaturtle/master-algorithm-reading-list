@@ -1,3 +1,6 @@
+# Master Algorithm References 
+
+"The Master Algorithm" by Pedro Domingos is one of my most favourite books. It inspired me early on to get into machine learning. I especially loved the fact that he put together a whole list of resources at the end of the book which are invaluable to anyone who wants to understand the various paradigms of machine learning as described by him. Here is a compilation of those resources. I will convert them to links in the near future, but for now enjoy :) 
 
 	1. “Behind-the-scenes data mining,” by George John (SIGKDD Explorations, 1999)
 	2. Eric Siegel’s book Predictive Analytics (Wiley, 2013)
